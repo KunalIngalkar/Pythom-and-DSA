@@ -1,4 +1,5 @@
-'''2. Employee Records Search
+'''
+2. Employee Records Search
 An HR database stores employee data as (ID, Name, Dept). Given a tuple of these records, find the index
 of the employee with ID 105. If not found, return -1.
 '''
