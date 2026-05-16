@@ -1,3 +1,8 @@
+'''
+6. Triangle Validity & Classification: Input three sides. Check if the triangle is valid. If valid,
+classify it as Equilateral, Isosceles, or Scalene.
+'''
+
 a,b,c = map(int,input().split())
 
 if a == b == c:
